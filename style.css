@@ -1,0 +1,32 @@
+.first{
+    background-color:rgb(140, 219, 36);
+}
+body{
+    background-image:url('food1.jpg');
+
+}
+#Biryani{
+    font-size:50px;
+    font-weight: bolder;
+    color:rgb(238, 118, 20);
+}
+#Paneer-tikka{
+    font-size:50px;
+    font-weight: bolder;
+    color:rgb(223, 86, 23);
+}
+
+#Korma{
+    font-size:50px;
+    font-weight: bolder;
+    color:rgb(196, 60, 26);
+
+}
+
+#biryani{
+    color:yellowgreen
+}
+p {
+    font-size: larger;
+    color: rgba(165, 42, 89, 0.349);
+}
