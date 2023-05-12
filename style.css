@@ -28,5 +28,21 @@ body{
 }
 p {
     font-size: larger;
-    color: rgba(165, 42, 89, 0.349);
+    color: rgba(228, 14, 14, 0.945);
+}
+ul{
+      font-size: larger;
+        color: rgba(228, 14, 14, 0.945);
+    
+}
+ol {
+        font-size: larger;
+        color: rgba(228, 14, 14, 0.945);
+
+}
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: darksalmon;
+    color:aliceblue
 }
